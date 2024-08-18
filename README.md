@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihan-agarwal-058513237/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vihanagarwal/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vihanagarwal2003@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_vihanagarwal_/)
 <h2> About Me :</h2>
 
 I'm a UnderGraduate Student studying in Vellore, TamilNadu. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around, drop an email and let's catch-up over Coffee!
